@@ -82,3 +82,5 @@ function cleanAll() {
   countryList.innerHTML = '';
   countryInfo.innerHTML = '';
 }
+
+countryList.style.listStyle = 'none';
